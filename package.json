@@ -1,0 +1,14 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "'A personal Blog Site using NodeJS and ExpressJS'",
+  "main": "app.js",
+  "author": "William Estrada",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.11"
+  }
+}
